@@ -15,7 +15,8 @@ def generateInfoGraphic(info,typeface,fontSize,R,G,B):
         xcord = xpos[index] - offset
         draw = ImageDraw.Draw(img)
         font = ImageFont.truetype("Microsoft Sans Serif.ttf", fontSize)
-        if (index>0):
+        if (index > 0):
+            # add commas to numbers
             detail="{:,}".format(int(detail))
         else:
             filename=detail.split(",")[0]
@@ -23,14 +24,13 @@ def generateInfoGraphic(info,typeface,fontSize,R,G,B):
         index=index+1
     #str(uuid.uuid4())
     img.save('sample-infographic-' + filename + '.png')
-    index=0
+    index = 0
 
 def readMyFile(filename):
+    # Import data from CSV file
     myData = []
-
     text_file = open(filename, "r")
     lines = text_file.readlines()
-
     return lines
 
 myData = readMyFile('mydata.csv')
