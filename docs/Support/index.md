@@ -1,5 +1,5 @@
 ---
-title: Windows Virtual Desktop
+title: Support
 author: rwmartin
 ---
 # Windows Virtual Desktop Solution

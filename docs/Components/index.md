@@ -1,5 +1,5 @@
 ---
-title: Windows Virtual Desktop
+title: Components
 author: rwmartin
 ---
 # Windows Virtual Desktop Solution
