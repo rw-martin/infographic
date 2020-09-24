@@ -2,8 +2,6 @@
 title: Windows Virtual Desktop
 author: rwmartin
 ---
-
-
 # Windows Virtual Desktop Solution
 {: .fs-9 }
 
