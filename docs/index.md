@@ -8,6 +8,9 @@ author: rwmartin
 # Windows Virtual Desktop Solution (WVD)
 {: .fs-9 }
 
+Contributors: {% avatar [rw-martin] %}
+
+
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
