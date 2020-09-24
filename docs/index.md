@@ -25,4 +25,12 @@ Bespoke solution created to host the C-Log application for the 2020 event based 
 # Dependencies
 
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
