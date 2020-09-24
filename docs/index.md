@@ -1,6 +1,5 @@
 ---
-title: WVD
-description: Learn about WVD
+title: Windows Virtual Desktop
 author: rwmartin
 ---
 
@@ -10,6 +9,14 @@ author: rwmartin
 
 
 09/16/2020 4 minutes to read Contributors: {% avatar rw-martin size=20 %}
+
+
+
+{% capture time %}{{ content | reading_time }}{% endcapture %}
+  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.
+
+
+
 
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
