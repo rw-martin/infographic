@@ -8,14 +8,9 @@ author: rwmartin
 {: .fs-9 }
 
 
-09/16/2020 4 minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
-
-
-
 {% capture time %}{{ content | reading_time }}{% endcapture %}
 
-This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} 
-
+09/25/2020 {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
 
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
