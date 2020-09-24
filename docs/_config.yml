@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-avatar
+  - liquid_reading_time
