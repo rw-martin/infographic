@@ -8,7 +8,7 @@ author: rwmartin
 {: .fs-9 }
 
 
-09/16/2020 4 minutes to read Contributors: {% avatar rw-martin size=20 %}
+09/16/2020 4 minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
 
 
 
