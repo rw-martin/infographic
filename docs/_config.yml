@@ -3,4 +3,4 @@ remote_theme: pmarsceill/just-the-docs
 Markdown: kramdown
 plugins:
   - jekyll-avatar
-  - liquid_reading_time
+  - jekyll-time-to-read

@@ -11,7 +11,8 @@ author: rwmartin
 {% capture time %}{{ content | reading_time }}{% endcapture %}
 
 
-{% include read_time.html %}
+{{ content | reading_time_as_i }}
+
 
 { page.date | date: "%b %d, %Y" } <li> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
 
