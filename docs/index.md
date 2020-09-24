@@ -1,3 +1,10 @@
+---
+title: WVD
+description: Learn about WVD
+author: rwmartin
+---
+
+
 # Windows Virtual Desktop Solution (WVD)
 {: .fs-9 }
 
