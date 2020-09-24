@@ -7,13 +7,9 @@ author: rwmartin
 # Windows Virtual Desktop Solution
 {: .fs-9 }
 
-===
 
 
-===
-
-
-<li> {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
+<li> 4 minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
 
 
 Bespoke solution created to host the C-Log application for the 2020 event based on the Spring WVD release.
