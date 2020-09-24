@@ -9,7 +9,7 @@ author: rwmartin
 
 ===
 
-{{% Include read_time.html %}}
+{% include read_time.html %}
 
 ===
 
