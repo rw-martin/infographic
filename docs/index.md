@@ -9,7 +9,7 @@ author: rwmartin
 {: .fs-9 }
 
 
-09/16/2020 | 4 minutes to read | Contributors: {% avatar rw-martin size=50 %}
+09/16/2020 4 minutes to read Contributors: {% avatar rw-martin size=20 %}
 
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
