@@ -9,7 +9,6 @@ author: rwmartin
 
 ===
 
-{% include read_time.html %}
 
 ===
 
