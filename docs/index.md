@@ -7,12 +7,11 @@ author: rwmartin
 # Windows Virtual Desktop Solution
 {: .fs-9 }
 
+===
 
 {{% Include read_time.html %}}
 
-{% capture time %}{{ content | reading_time }}{% endcapture %}
-
-
+===
 
 {{ page.date | date: "%b %d, %Y" }} 
 
