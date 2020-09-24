@@ -14,7 +14,7 @@ author: rwmartin
 
 
 Bespoke solution created to host the C-Log application for the 2020 event based on the Spring WVD release.
-{: .fs-4 .fw-400 }
+{: .fs-4 .fw-600 }
 
 
 # Solution highlights:
