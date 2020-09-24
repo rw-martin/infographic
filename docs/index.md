@@ -23,10 +23,10 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 
 # Solution highlights:
-fslogix profile containers that seamlessly mount at login as virtual disks to aid in keeping login times acceptable.
-Auto scale-out/scale-in automation
-Custom ARM template used to deploy burstable Standard_B2ms
-Optimized Windows 10 Enterprise Multi-Session gold image w/ Office ProPlus and other ready for import into the shared gallery if desired
+	* fslogix profile containers that seamlessly mount at login as virtual disks to aid in keeping login times acceptable.
+	* Auto scale-out/scale-in automation
+	* Custom ARM template used to deploy burstable Standard_B2ms
+	* Optimized Windows 10 Enterprise Multi-Session gold image w/ Office ProPlus and other ready for import into the shared gallery if desired
  
 
 
