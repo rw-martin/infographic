@@ -1,10 +1,17 @@
-# Focus on writing excellent documentation!
+# Cloud Hosted Infrastructure - Windows Virtual Desktop Solution (WVD)
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-## Getting started
+
+## Solution highlights:
+fslogix profile containers that seamlessly mount at login as virtual disks to aid in keeping login times acceptable.
+Auto scale-out/scale-in automation
+Custom ARM template used to deploy burstable Standard_B2ms
+Optimized Windows 10 Enterprise Multi-Session gold image w/ Office ProPlus and other ready for import into the shared gallery if desired
+ 
+
 
 ### Dependencies
 
