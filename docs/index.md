@@ -9,7 +9,7 @@ author: rwmartin
 
 
 
-<li> 4 minutes to read Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
+09/25/2002 - 4 minutes to read - Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
 
 
 Bespoke solution created to host the C-Log application for the 2020 event based on the Spring WVD release.
