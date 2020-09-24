@@ -13,9 +13,8 @@ author: rwmartin
 
 
 {% capture time %}{{ content | reading_time }}{% endcapture %}
-  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.
 
-
+This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} 
 
 
 
