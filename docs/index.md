@@ -2,7 +2,7 @@
 title: Windows Virtual Desktop
 author: rwmartin
 ---
-# Windows Virtual Desktop Solution
+# Crisis at Christmas Published App Solution
 {: .fs-9 }
 
 09/25/2020 - 4 minutes to read - Contributors: {% avatar rw-martin size=20 %} {% avatar TheOneAndOnlyBillGates size=20 %}
